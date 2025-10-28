@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# MySQL runtime data
+twoTier-flaskApp/mysql-data/
+
+# Docker
+*.log
+*.pid
+.env
+.dockerignore
+
+# OS junk
+.DS_Store
+Thumbs.db
